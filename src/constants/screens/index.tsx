@@ -1,0 +1,6 @@
+export default {
+LOGIN: "LOGIN",
+SIGN_UP: "SIGNUP",
+HOME : "HOME",
+FORGOT_PASSWORD : "FORGOTPASSWORD"
+}
